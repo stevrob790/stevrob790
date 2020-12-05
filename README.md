@@ -19,8 +19,8 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+<!-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu); -->
+<!-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
 
 <br/>
 <br/>
