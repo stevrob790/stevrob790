@@ -35,8 +35,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Angular</center></b></span> 
-   <a href="https://angular.io"><img height="45px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"></a> 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><span><b><center>C++</center></b></span> 
+   <img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
 </td>
 
 <td align="center" width="20%">
