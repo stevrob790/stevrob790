@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://twitter.com/stevrob790" target="_blank">
+  <a href="https://twitter.com/stevrob790">
     <img width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:stevenrobledo790@gmail.com">
@@ -11,7 +11,7 @@
  
 ## Hello world!  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/stevrob790/stevrob790/code.gif?raw=true" width="500" height="320" />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
