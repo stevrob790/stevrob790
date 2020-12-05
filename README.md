@@ -22,14 +22,14 @@
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Skills
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
-<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" height="40"/> -->
-30
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" height="40"/>
