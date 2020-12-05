@@ -35,7 +35,7 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><span><b><center>C++</center></b></span> 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" style="text-decoration: none;"><span><b><center>C++</center></b></span> 
    <img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
 </td>
 
