@@ -1,7 +1,6 @@
-### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=stevrob790" alt="stevrob790" />
+## Hello world!  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="28px">
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="40">
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" height="40"/>
 
 Here are some ideas to get you started:
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ 
