@@ -1,9 +1,9 @@
 <p align='center'>
   <a href="https://twitter.com/stevrob790">
-    <img width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img width="27px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:stevenrobledo790@gmail.com">
-    <img width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img width="27px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
 
