@@ -35,25 +35,25 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" style="text-decoration: none;"><span><b><center>C++</center></b></span> 
-   <img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
+<span><b><center>C++</center></b></span> 
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>Java</center></b></span> 
+   <a href="https://go.java"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></a> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>Angular</center></b></span> 
+   <a href="https://angular.io"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"></a> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>NodeJS</center></b></span> 
+   <a href="https://nodejs.org/en/about/"><img height=55 src=""></a> 
 </td>
 
 <td align="center" width="20%">
