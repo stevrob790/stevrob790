@@ -75,17 +75,17 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit aptent primis facilisi lo
 <tr>
 <td align="center">
 <span><b><center>JavaScript</center></b></span> 
-   <a href="https://javascript.info/intro"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></a> 
+   <a href="https://javascript.info/intro"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></a> 
  </td>
   
 <td align="center">
 <span><b><center>Bootstrap</center></b></span> 
-   <a href="https://getbootstrap.com"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
+   <a href="https://getbootstrap.com"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
 </td>
 
 <td align="center">
 <span><b><center>HTML</center></b></span> 
-   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"></a> 
+   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"></a> 
 </td>
 </tr>
 
