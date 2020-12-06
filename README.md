@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## Hello world!  <img src="Assets/Earth.gif" width="24px">
+## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit aptent primis facilisi lo
 <br/>
 <br/>
 
-## Skills &nbsp; <img src="Assets/Mario_Hello_Big.gif" width="30px">
+## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
 <table>
