@@ -53,53 +53,36 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
-   <a href="https://nodejs.org/en/about/"><img height=55 src=""></a> 
+   <a href="https://nodejs.org/en/about/"><img height=68 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<span><b><center>Bootstrap</center></b></span> 
+   <a href="https://getbootstrap.com"><img height=52 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<span><b><center>MySQL</center></b></span> 
+   <a href="https://www.mysql.com"><img height=78 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></a> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>PHP</center></b></span> 
+   <a href="https://www.php.net"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"></a> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+   <a href="https://javascript.info/intro"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></a> 
 </td>
+
+
 
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"></a> 
 </td>
 </tr>
 
