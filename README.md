@@ -1,17 +1,19 @@
+<!-- BANNER GOES HERE -->
+
 <p align='center'>
   <a href="https://twitter.com/stevrob790">
-    <img width="27px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img width="27px" src="Assets/Twitter.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:stevenrobledo790@gmail.com">
-    <img width="27px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img width="27px" src="Assets/Gmail.svg" />
   </a>
 </p>
 
 
  
-## Hello world!  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+## Hello world!  <img src="Assets/Earth.gif" width="24px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
 
 **Talking about Personal Stuffs:**
