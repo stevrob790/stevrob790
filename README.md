@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit aptent primis facilisi lo
 <br/>
 <br/>
 
-## Skills :computer:
+## Skills &nbsp; <img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
 <table>
