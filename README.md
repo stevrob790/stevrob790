@@ -34,53 +34,51 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>C++</center></b></span> 
    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
 </td>
 
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>Java</center></b></span> 
    <a href="https://go.java"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></a> 
 </td>
 
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>Angular</center></b></span> 
    <a href="https://angular.io"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"></a> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>NodeJS</center></b></span> 
-   <a href="https://nodejs.org/en/about/"><img height=68 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
+   <a href="https://nodejs.org/en/about/"><img height=58 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
-   <a href="https://getbootstrap.com"><img height=52 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-   <a href="https://www.mysql.com"><img height=78 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"></a> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>PHP</center></b></span> 
    <a href="https://www.php.net"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"></a> 
 </td>
 
-<td align="center" width="20%">
+<td align="center">
+<span><b><center>MySQL</center></b></span> 
+   <a href="https://www.mysql.com"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></a> 
+</td>
+</tr>
+
+<tr>
+<td align="center">
 <span><b><center>JavaScript</center></b></span> 
    <a href="https://javascript.info/intro"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></a> 
+ </td>
+  
+<td align="center">
+<span><b><center>Bootstrap</center></b></span> 
+   <a href="https://getbootstrap.com"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
 </td>
 
-
-
-<td align="center" width="20%">
+<td align="center">
 <span><b><center>HTML</center></b></span> 
    <a href="https://www.w3schools.com/html/html_intro.asp"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"></a> 
 </td>
