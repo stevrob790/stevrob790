@@ -18,12 +18,15 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
+<br/>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit aptent primis facilisi lobortis, interdum purus lacus iaculis sem enim non tellus dui porttitor, volutpat ligula eleifend montes cum urna et molestie ornare rutrum. Congue eleifend eu luctus primis taciti lacinia class arcu est odio inceptos eget ligula, ullamcorper vehicula vivamus nam auctor nulla enim placerat pharetra facilisis sem. Morbi vehicula rutrum sociosqu vestibulum dis at quam, mi litora posuere magna curabitur eu, hendrerit pellentesque lectus lacus duis eget.
+
 <!-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu); -->
 <!-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
