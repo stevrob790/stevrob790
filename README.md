@@ -29,7 +29,7 @@ I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and t
 - 💬 Ask me about lorem 
 - 📫 How to reach me: lorem 
 - 😄 Pronouns: lorem 
-- ⚡ Fun fact: lorem 
+- <img width="28vw" src="Assets/bolt.gif" /> Fun fact: lorem 
 
 <br>
 <br>
