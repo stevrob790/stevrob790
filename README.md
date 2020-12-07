@@ -16,14 +16,14 @@
 
 I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and telecommunications student in Colombia <img width="23px" src="Assets/Colombia.svg" />. I do content on desktop and web development, <img width="35px" src="Assets/Developer.gif" /> as well as work in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
 
-<img align="right" alt="GIF" src="Assets/code.gif" width="480" height="320" />
+<img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
 <br>
 
 **More about me:**
 
 - <img width="23vw" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
-- 🌱 I’m currently learning lorem 
+- <img width="23vw" src="Assets/hmm.gif" /> I’m currently learning advance data structures and algorithms  
 - 👯 I’m looking to collaborate on lorem 
 - 🤔 I’m looking for help with lorem 
 - 💬 Ask me about lorem 
