@@ -32,6 +32,8 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, volutpat rutrum dui habi
 <!-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu); -->
 <!-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
 
+<br>
+<br>
 
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
