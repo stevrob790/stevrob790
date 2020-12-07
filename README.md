@@ -16,7 +16,7 @@
 
 I'm Steven Robledo, a 3rd year systems engineering and telecommunications student in Colombia. I do content on desktop and web development, as well as work in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** and **excel.** 
 
-<img align="right" alt="GIF" src="Assets/code.gif" width="500" height="310" />
+<img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
 <br>
 
@@ -31,6 +31,7 @@ I'm Steven Robledo, a 3rd year systems engineering and telecommunications studen
 - 😄 Pronouns: lorem 
 - ⚡ Fun fact: lorem 
 
+<br>
 <br>
 
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
