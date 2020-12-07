@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, volutpat rutrum dui habi
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
+**More about me:**
 
 - 🔭 I’m currently working on lorem 
 - 🌱 I’m currently learning lorem 
