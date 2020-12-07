@@ -25,7 +25,7 @@ I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and t
 - <img width="20vw" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
 - <img width="20vw" src="Assets/hmm.gif" /> I’m currently learning advance data structures and algorithms  
 - <img width="20vw" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and OpenCv
-- 🤔 I’m looking for help with lorem 
+- <img width="20vw" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
 - 💬 Ask me about lorem 
 - 📫 How to reach me: lorem 
 - 😄 Pronouns: lorem 
