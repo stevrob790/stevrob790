@@ -18,6 +18,8 @@ I'm Steven Robledo, a 3rd year systems engineering and telecommunications studen
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
+<br>
+
 **More about me:**
 
 - 🔭 I’m currently working on lorem 
@@ -28,9 +30,6 @@ I'm Steven Robledo, a 3rd year systems engineering and telecommunications studen
 - 📫 How to reach me: lorem 
 - 😄 Pronouns: lorem 
 - ⚡ Fun fact: lorem 
-
-<!-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu); -->
-<!-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
 
 <br>
 <br>
