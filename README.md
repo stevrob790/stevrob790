@@ -14,7 +14,7 @@
 
 ## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
-I'm Steven Robledo, a 3rd year systems engineering and telecommunications student in Colombia. I do content on desktop and web development, as well as work in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** and **excel.** 
+I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and telecommunications student in Colombia. I do content on desktop and web development <img width="35px" src="Assets/Developer.gif" />, as well as work in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="38px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
