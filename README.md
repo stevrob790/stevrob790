@@ -32,8 +32,6 @@ I'm Steven Robledo, a 3rd year systems engineering and telecommunications studen
 - ⚡ Fun fact: lorem 
 
 <br>
-<br>
-<br>
 
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
