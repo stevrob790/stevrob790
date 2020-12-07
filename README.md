@@ -14,11 +14,11 @@
 
 ## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
+Lorem ipsum dolor sit amet consectetur adipiscing elit, volutpat rutrum dui habitant varius elementum placerat, consequat morbi et erat integer pellentesque. Nam a etiam facilisis consequat aenean penatibus suscipit nullam potenti dis, tortor curabitur ornare nostra dignissim vitae dictumst habitant ridiculus blandit, mattis felis velit facilisi ultricies metus quam massa rhoncus. Vel curabitur semper fames facilisis mauris platea cras, libero diam inceptos rhoncus auctor tellus ac, tempus dignissim porttitor rutrum malesuada aliquet.
+
 <img align="right" alt="GIF" src="Assets/code.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-
-<br/>
 
 - 🔭 I’m currently working on lorem 
 - 🌱 I’m currently learning lorem 
@@ -32,13 +32,6 @@
 <!-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu); -->
 <!-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
