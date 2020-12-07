@@ -23,7 +23,7 @@ I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and t
 **More about me:**
 
 - <img width="20vw" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
-- <img width="20vw" src="Assets/hmm.gif" /> I’m currently learning advance data structures and algorithms  
+- <img width="20vw" src="Assets/hmm.gif" /> I’m currently learning data structures and algorithms  
 - 👯 I’m looking to collaborate on lorem 
 - 🤔 I’m looking for help with lorem 
 - 💬 Ask me about lorem 
