@@ -28,8 +28,6 @@ I'm [Steven Robledo](https://toofreak.com), a 3rd year systems engineering and t
 - <img width="22vw" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
 - <img width="24vw" src="Assets/bolt.gif" /> Fun fact: I devote myself to deliver quality work with great passion.
 
-<br>
-
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
