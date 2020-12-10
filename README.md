@@ -7,7 +7,7 @@
   <a href="mailto:stevenrobledo790@gmail.com">
     <img width="27px" src="Assets/Gmail.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.toofreak.com">
+  <a href="https://stevennrobledo.com">
     <img width="31px" src="Assets/Website.svg" />
   </a>
 </p>
