@@ -1,5 +1,3 @@
-## Hello World!  <img src="Assets/Earth.gif" width="24px">
-
 <p align='center'>
   <a href="https://twitter.com/stevrob790">
     <img width="27px" src="Assets/Twitter.svg" />
@@ -11,6 +9,8 @@
     <img width="31px" src="Assets/Website.svg" />
   </a>
 </p>
+
+## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
 I'm [Steven Robledo](https://stevennrobledo.com), a 3rd year systems engineering and telecommunications student in Colombia <img width="23px" src="Assets/Colombia.svg" />. I do content on desktop and web development, <img width="35px" src="Assets/Developer.gif" /> as well as work in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
 
