@@ -22,7 +22,7 @@ I'm [Steven Robledo](https://stevennrobledo.com), a 3rd year systems engineering
 
 - <img width="20vw" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
 - <img width="20vw" src="Assets/hmm.gif" /> I’m currently learning advance data structures and algorithms  
-- <img width="20vw" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and OpenCV
+- <img width="20vw" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and computer vision
 - <img width="22vw" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
 - <img width="24vw" src="Assets/bolt.gif" /> Fun fact: I devote myself to deliver quality work with great passion.
 
