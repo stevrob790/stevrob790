@@ -39,12 +39,12 @@ I'm [Steven Robledo](https://stevennrobledo.com), a 3rd year systems engineering
 
 <td align="center">
 <span><b><center>Java</center></b></span> 
-   <a href="https://go.java"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></a> 
+   <a href="https://go.java"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a> 
 </td>
 
 <td align="center">
 <span><b><center>Angular</center></b></span> 
-   <a href="https://angular.io"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"></a> 
+   <a href="https://angular.io"><img height=55 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a> 
 </td>
 </tr>
 
@@ -56,29 +56,29 @@ I'm [Steven Robledo](https://stevennrobledo.com), a 3rd year systems engineering
 
 <td align="center">
 <span><b><center>PHP</center></b></span> 
-   <a href="https://www.php.net"><img height=65 src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"></a> 
+   <a href="https://www.php.net"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
 </td>
 
 <td align="center">
 <span><b><center>MySQL</center></b></span> 
-   <a href="https://www.mysql.com"><img height=55 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></a> 
+   <a href="https://www.mysql.com"><img height=55 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a> 
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <span><b><center>JavaScript</center></b></span> 
-   <a href="https://javascript.info/intro"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></a> 
+   <a href="https://javascript.info/intro"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a> 
  </td>
   
 <td align="center">
 <span><b><center>Bootstrap</center></b></span> 
-   <a href="https://getbootstrap.com"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"></a> 
+   <a href="https://getbootstrap.com"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></a> 
 </td>
 
 <td align="center">
 <span><b><center>HTML</center></b></span> 
-   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=51 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"></a> 
+   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> 
 </td>
 </tr>
 
