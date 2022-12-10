@@ -20,7 +20,7 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
 **More about me:**
 
-- <img width="10vw" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
+- <img width="20px" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com)
 - <img width="20vw" src="Assets/hmm.gif" /> I’m currently learning advance data structures and algorithms  
 - <img width="20vw" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and computer vision
 - <img width="22vw" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
