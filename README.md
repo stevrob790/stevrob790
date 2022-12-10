@@ -120,6 +120,14 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tr>
   
   <td align="center">
+    <span><b><center></center></b></span> 
+  </td>
+  
+  <td align="center">
+    <span><b><center></center></b></span> 
+  </td>
+  
+  <td align="center">
     <span><b><center>MongoDB</center></b></span> 
     <a href="https://www.mongodb.com/docs/atlas/"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a> 
   </td>
@@ -129,6 +137,27 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
     <a href="https://about.gitlab.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></a> 
   </td>
 
+</tr>
+  
+<tr>
+
+  <td align="center">
+    <span><b><center></center></b></span> 
+  </td>
+  
+   <td align="center">
+    <span><b><center></center></b></span> 
+  </td>
+  
+   <td align="center">
+    <span><b><center></center></b></span> 
+  </td>
+  
+   <td align="center">
+    <span><b><center>Firebase</center></b></span> 
+    <a href="https://firebase.google.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a> 
+  </td>
+  
 </tr>
 
 </tbody>
