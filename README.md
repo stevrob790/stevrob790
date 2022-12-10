@@ -30,6 +30,14 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
 <br>
 <table>
+<thead> 
+      <tr>
+      <th>#</th>
+      <th>First</th>
+      <th>Last</th>
+      <th>Handle</th>
+    </tr>
+</thead>
 <tbody>
  <tr>
 <td align="center">
