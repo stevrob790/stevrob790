@@ -53,33 +53,49 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
   <td align="center">
     <span><b><center>NodeJS</center></b></span> 
-    <a href="https://nodejs.org/en/about/"><img height=58 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
+    <a href="https://nodejs.org/en/about/"><img height=60 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
   </td>
 
   <td align="center">
     <span><b><center>Docker</center></b></span> 
-    <a href="https://www.docker.com/company/"><img height=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a> 
+    <a href="https://www.docker.com/company/"><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a> 
   </td>   
 </tr>
-
-  <td align="center">
-<span><b><center>Java</center></b></span> 
-   <a href="https://go.java"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a> 
-</td>
-
+  
   
 <tr>
 
+  <td align="center">
+    <span><b><center>Java</center></b></span> 
+    <a href="https://go.java"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a> 
+  </td>
+  
+  <td align="center">
+    <span><b><center>Typescript</center></b></span> 
+    <a href="https://www.typescriptlang.org"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a> 
+  </td>
+  
+  <td align="center">
+    <span><b><center>MySQL</center></b></span> 
+    <a href="https://www.mysql.com"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a> 
+  </td>
+  
+  <td align="center">
+    <span><b><center>Kubernetes</center></b></span> 
+    <a href="https://kubernetes.io"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a> 
+  </td>
+  
+</tr>
+
+  
+<tr>
 
 <td align="center">
 <span><b><center>PHP</center></b></span> 
    <a href="https://www.php.net"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
 </td>
 
-<td align="center">
-<span><b><center>MySQL</center></b></span> 
-   <a href="https://www.mysql.com"><img height=55 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a> 
-</td>
+  
 </tr>
 
 <tr>
