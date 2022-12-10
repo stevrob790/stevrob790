@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-
 <p align='center'>
   <a href="https://twitter.com/stevrob790">
     <img width="27px" src="Assets/Twitter.svg" />
@@ -31,13 +29,13 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
-<table class="table">
-<thead class="thead-dark"> 
+<table>
+<thead> 
       <tr>
-      <th>#</th>
-      <th>First</th>
-      <th>Last</th>
-      <th>Handle</th>
+      <th>Fundamentals</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Deployment</th>
     </tr>
 </thead>
 <tbody>
@@ -47,10 +45,6 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
 </td>
 
-<td align="center">
-<span><b><center>Java</center></b></span> 
-   <a href="https://go.java"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a> 
-</td>
 
 <td align="center">
 <span><b><center>Angular</center></b></span> 
@@ -58,6 +52,12 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 </td>
 </tr>
 
+  <td align="center">
+<span><b><center>Java</center></b></span> 
+   <a href="https://go.java"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a> 
+</td>
+
+  
 <tr>
 <td align="center">
 <span><b><center>NodeJS</center></b></span> 
