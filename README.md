@@ -47,8 +47,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
 
 <td align="center">
-<span><b><center>Angular</center></b></span> 
-   <a href="https://angular.io"><img height=55 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a> 
+<span><b><center>React</center></b></span> 
+   <a href="https://reactjs.org"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a> 
 </td>
 </tr>
 
