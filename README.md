@@ -39,17 +39,27 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
     </tr>
 </thead>
 <tbody>
- <tr>
-<td align="center">
-<span><b><center>C++</center></b></span> 
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
-</td>
+  
+<tr>
+  <td align="center">
+    <span><b><center>C++</center></b></span> 
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
+  </td>
 
+  <td align="center">
+    <span><b><center>React</center></b></span> 
+     <a href="https://reactjs.org"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a> 
+  </td>
 
-<td align="center">
-<span><b><center>React</center></b></span> 
-   <a href="https://reactjs.org"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a> 
-</td>
+  <td align="center">
+    <span><b><center>NodeJS</center></b></span> 
+    <a href="https://nodejs.org/en/about/"><img height=58 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
+  </td>
+
+  <td align="center">
+    <span><b><center>Docker</center></b></span> 
+    <a href="https://www.docker.com/company/"><img height=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a> 
+  </td>   
 </tr>
 
   <td align="center">
@@ -59,10 +69,7 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
   
 <tr>
-<td align="center">
-<span><b><center>NodeJS</center></b></span> 
-   <a href="https://nodejs.org/en/about/"><img height=58 src="https://img.icons8.com/color/2x/nodejs.png"></a> 
-</td>
+
 
 <td align="center">
 <span><b><center>PHP</center></b></span> 
