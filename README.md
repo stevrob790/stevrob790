@@ -41,10 +41,6 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tbody>
   
 <tr>
-<!--   <td align="center">
-    <span><b><center>C++</center></b></span> 
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
-  </td> -->
   
   <td align="center">
     <span><b><center>Git</center></b></span> 
@@ -120,7 +116,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tr>
   
   <td align="center">
-    <span><b><center></center></b></span> 
+    <span><b><center>C++</center></b></span> 
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
   </td>
   
   <td align="center">
