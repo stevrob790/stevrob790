@@ -104,6 +104,17 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
     <a href="https://getbootstrap.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a> 
   </td>
   
+  <td align="center">
+    <span><b><center>PostgreSQL</center></b></span> 
+    <a href="https://www.postgresql.org/about/"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a> 
+  </td>
+  
+  <td align="center">
+    <span><b><center>Github</center></b></span> 
+    <a href="https://kinsta.com/knowledgebase/what-is-github/"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a> 
+  </td>
+  
+  
 </tr>
 
 <tr>
