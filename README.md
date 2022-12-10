@@ -41,9 +41,14 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tbody>
   
 <tr>
-  <td align="center">
+<!--   <td align="center">
     <span><b><center>C++</center></b></span> 
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height=55 src="https://isocpp.org/assets/images/cpp_logo.png"></a> 
+  </td> -->
+  
+  <td align="center">
+    <span><b><center>Git</center></b></span> 
+    <a href="https://git-scm.com"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> 
   </td>
 
   <td align="center">
@@ -72,7 +77,7 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
   
   <td align="center">
     <span><b><center>Typescript</center></b></span> 
-    <a href="https://www.typescriptlang.org"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a> 
+    <a href="https://www.typescriptlang.org"><img height=52 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a> 
   </td>
   
   <td align="center">
@@ -86,33 +91,23 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
   </td>
   
 </tr>
-
   
 <tr>
 
-<td align="center">
-<span><b><center>PHP</center></b></span> 
-   <a href="https://www.php.net"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
-</td>
+  <td align="center">
+     <span><b><center>PHP</center></b></span> 
+     <a href="https://www.php.net"><img height=65 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a> 
+  </td>
 
+  <td align="center">
+    <span><b><center>Bootstrap</center></b></span> 
+    <a href="https://getbootstrap.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a> 
+  </td>
   
 </tr>
 
 <tr>
-<td align="center">
-<span><b><center>JavaScript</center></b></span> 
-   <a href="https://javascript.info/intro"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a> 
- </td>
-  
-<td align="center">
-<span><b><center>Bootstrap</center></b></span> 
-   <a href="https://getbootstrap.com"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></a> 
-</td>
 
-<td align="center">
-<span><b><center>HTML</center></b></span> 
-   <a href="https://www.w3schools.com/html/html_intro.asp"><img height=51 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> 
-</td>
 </tr>
 
 </tbody>
