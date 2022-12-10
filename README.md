@@ -149,9 +149,6 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
     <span><b><center></center></b></span> 
   </td>
   
-   <td align="center">
-    <span><b><center></center></b></span> 
-  </td>
   
    <td align="center">
     <span><b><center>Firebase</center></b></span> 
