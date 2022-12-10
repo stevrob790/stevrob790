@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
 <p align='center'>
   <a href="https://twitter.com/stevrob790">
     <img width="27px" src="Assets/Twitter.svg" />
@@ -29,8 +31,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
-<table>
-<thead> 
+<table class="table">
+<thead class="thead-dark"> 
       <tr>
       <th>#</th>
       <th>First</th>
