@@ -139,14 +139,15 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tr>
 
   <td align="center">
-    <span><b><center></center></b></span> 
+    <span><b><center>Html</center></b></span> 
+    <a href=""><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a> 
   </td>
   
    <td align="center">
     <span><b><center></center></b></span> 
   </td>
   
-   <td align="center">
+  <td align="center">
     <span><b><center>Firebase</center></b></span> 
     <a href="https://firebase.google.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a> 
   </td>
