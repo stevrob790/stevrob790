@@ -161,7 +161,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 <tr>
 
   <td align="center">
-    <span><b><center></center></b></span> 
+    <span><b><center>Wordpress</center></b></span> 
+    <a href="https://wordpress.com"><img height=58 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></a> 
   </td>
   
    <td align="center">
