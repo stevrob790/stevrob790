@@ -121,7 +121,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
   </td>
   
   <td align="center">
-    <span><b><center></center></b></span> 
+    <span><b><center>DevTools</center></b></span> 
+    <a href="https://developer.chrome.com/docs/devtools/"><img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a> 
   </td>
   
   <td align="center">
