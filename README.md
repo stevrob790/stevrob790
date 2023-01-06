@@ -26,6 +26,8 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 - <img width="30px" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
 - <img width="30px" src="Assets/bolt.gif" />Fun fact: I devote myself to deliver quality work with great passion.
 
+<!--
+
 ## Skills & Experience&nbsp;<img src="Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
@@ -183,3 +185,5 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
 </tbody>
 </table>
+
+-->
