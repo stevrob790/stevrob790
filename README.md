@@ -12,7 +12,7 @@
 
 ## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
-I'm [Steven Robledo](https://www.stevrob.com), systems telecommunications engineer. I do content on desktop, web full stack and Wordpress development, <img width="35px" src="Assets/Developer.gif" />. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
+I'm <a href="https://www.stevrob.com" target="_blank">Steven Robledo</a>, systems telecommunications engineer. I do content on desktop, web full stack and Wordpress development, <img width="35px" src="Assets/Developer.gif" />. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="400" height="320" />
 
@@ -20,7 +20,7 @@ I'm [Steven Robledo](https://www.stevrob.com), systems telecommunications engine
 
 **More about me:**
 
-- <img width="37px" src="Assets/wave.gif" /> Visit my online portfolio at [stevrob.com](https://www.stevrob.com)
+- <img width="37px" src="Assets/wave.gif" /> Visit my online portfolio at <a href="https://www.stevrob.com" target="_blank">stevrob.com</a>
 - <img width="25px" src="Assets/hmm.gif" /> I’m currently learning to become a MERN stack developer
 - <img width="25px" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and computer vision
 - <img width="30px" src="Assets/bolt.gif" />Fun fact: I devote myself to deliver quality work with great passion.
