@@ -12,7 +12,7 @@
 
 ## Hello World!  <img src="Assets/Earth.gif" width="24px">
 
-I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th year systems engineering and telecommunications student in Colombia <img width="23px" src="Assets/Colombia.svg" />. I do content on desktop and full stack web development, <img width="35px" src="Assets/Developer.gif" />, and in WordPress. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
+I'm [Steven Robledo](https://www.stevrob.com), systems telecommunications engineer. I do content on desktop, web full stack and Wordpress development, <img width="35px" src="Assets/Developer.gif" />. I also enjoy UI, UX, and design in general. I'm a **learning enthusiast** <img width="40px" src="Assets/Designer.gif" /> who is **obsessed** with the idea of **improving himself** and wants a **platform** to **grow** <img width="20px" src="Assets/Rocket.gif" /> and **excel.** <img width="23px" src="Assets/Medal.gif" />
 
 <img align="right" alt="GIF" src="Assets/code.gif" width="400" height="320" />
 
@@ -20,10 +20,9 @@ I'm Steven Robledo, <!-- [Steven Robledo](https://stevennrobledo.com)--> a 5th y
 
 **More about me:**
 
-<!-- - <img width="37px" src="Assets/wave.gif" /> Visit my portfolio website at [stevennrobledo.com](https://stevennrobledo.com) -->
+- <img width="37px" src="Assets/wave.gif" /> Visit my online portfolio at [stevrob.com](https://www.stevrob.com)
 - <img width="25px" src="Assets/hmm.gif" /> I’m currently learning to become a MERN stack developer
 - <img width="25px" src="Assets/coin.gif" /> I’m looking forward to learn machine learning and computer vision
-- <img width="30px" src="Assets/gandalf_parrot.gif" /> I’m pursuing a Bachelor's degree in systems engineering and telecommunications
 - <img width="30px" src="Assets/bolt.gif" />Fun fact: I devote myself to deliver quality work with great passion.
 
 <!--
