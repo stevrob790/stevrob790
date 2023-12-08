@@ -1,7 +1,7 @@
 <p align='center'>
-  <a href="https://twitter.com/stevrob790">
+  <!--<a href="https://twitter.com/stevrob790">
     <img width="27px" src="Assets/Twitter.svg" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="mailto:info@stevrob.com">
     <img width="27px" src="Assets/Gmail.svg" />
   </a>&nbsp;&nbsp;
