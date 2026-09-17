@@ -2,7 +2,7 @@
   <a href="mailto:rob@2neo.tech">
     <img width="27px" src="Assets/Gmail.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.2neo.tech">
+  <a href="https://2neo.tech/">
     <img width="31px" src="Assets/Website.svg" />
   </a>
 </p>
