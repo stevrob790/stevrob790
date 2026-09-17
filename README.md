@@ -25,7 +25,6 @@ I'm also building **[2NEO](https://2neo.tech/)**, a software company focused on 
 - 💻 Developing full-stack web applications and software solutions
 - 🤖 Exploring **AI, automation, agents, and business integrations**
 - 🌐 Building technology that helps businesses establish and expand their digital presence
-- 🎨 Improving my knowledge of **UI/UX and product design**
 - 📚 Continuously improving as an engineer, developer, and entrepreneur
 
 <br>
