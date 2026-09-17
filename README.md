@@ -9,11 +9,11 @@
 
 ## Hello World! <img src="Assets/Earth.gif" width="24px">
 
-I'm <a href="www.2neo.tech" target="_blank">Rob</a>, a **Systems & Telecommunications Engineer** focused on software engineering, full-stack development, web technologies, and emerging AI solutions. <img width="35px" src="Assets/Developer.gif" />
+I'm <a href="https://2neo.tech/" target="_blank">Rob</a>, a **Systems & Telecommunications Engineer** focused on software engineering, full-stack development, web technologies, and emerging AI solutions. <img width="35px" src="Assets/Developer.gif" />
 
 I enjoy turning ideas and real-world business problems into practical technology from modern websites and web applications to software, automation, and AI-powered solutions.
 
-I'm also building **[2NEO](https://2neo.tech)**, a software company focused on helping businesses use technology to improve, automate, and grow.
+I'm also building **[2NEO](https://2neo.tech/)**, a software company focused on helping businesses use technology to improve, automate, and grow.
 
 <img align="right" alt="Developer working" src="Assets/code.gif" width="400" height="320" />
 
